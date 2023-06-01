@@ -1,5 +1,5 @@
 
-package com.jml.encuentro6;
+package com.jml.introjavaegg;
 
 import java.util.Scanner;
 

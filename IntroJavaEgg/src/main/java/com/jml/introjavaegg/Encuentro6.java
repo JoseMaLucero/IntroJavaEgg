@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.jml.encuentro6;
+package com.jml.introjavaegg;
 
 import java.util.Scanner;
 
